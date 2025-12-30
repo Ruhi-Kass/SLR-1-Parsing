@@ -1,0 +1,5 @@
+{
+  "name": "SLR(1) Parsing Visualizer",
+  "description": "An educational tool for visualizing and understanding the SLR(1) parsing process, including table construction and step-by-step input parsing with AI-powered explanations.",
+  "requestFramePermissions": []
+}
